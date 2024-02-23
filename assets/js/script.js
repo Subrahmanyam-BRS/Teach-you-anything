@@ -1,3 +1,4 @@
+
 var resultText = '';
 const search = document.querySelector('#submit');
 const searchQuery = document.querySelector('#searchQuery');
@@ -9,7 +10,7 @@ const loader = document.querySelector('#loader');
 const openAiUrl = 'https://api.openai.com/v1/completions';
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 }
 
 search.addEventListener('click', function() {
