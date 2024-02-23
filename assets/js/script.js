@@ -1,4 +1,3 @@
-
 var resultText = '';
 const search = document.querySelector('#submit');
 const searchQuery = document.querySelector('#searchQuery');
