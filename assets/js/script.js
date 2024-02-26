@@ -10,7 +10,7 @@ const loader = document.querySelector('#loader');
 const openAiUrl = 'https://api.openai.com/v1/completions';
 const headers = {
   "Content-Type": "application/json",
-  "Authorization": `Bearer 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`
+  "Authorization": `Bearer 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`
 }
 
 search.addEventListener('click', function() {
